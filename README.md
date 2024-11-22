@@ -1,4 +1,4 @@
-## <h1>API REST com Express e TypeScript</h1>
+## <h1>API de Gestão de Tarefas</h1>
 Este projeto é uma API REST simples desenvolvida com Express e TypeScript, voltada para o gerenciamento de tarefas. A aplicação demonstra práticas fundamentais de criação e estruturação de uma API, desde a modelagem de dados até o tratamento de erros.
 
 # Funcionalidades
